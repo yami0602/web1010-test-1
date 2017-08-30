@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+
+.colleges {
+    background-color: #c83;
+}
+
+ {
+    max-width: 300px;
+}
+
+.img figure {
+    max-width: 20px;
+}
+.img{
+    max-width: 300px;
+    display: block;
+}
+figure {
+    display: inline-block;
+    margin: 20px;
+}
